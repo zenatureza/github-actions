@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arthurtolfopinheiro/Documents/dev/estudo/github-actions/github-actions.csproj": {}
+    "C:\\Users\\arthur.pinheiro\\Documents\\dev\\estudo\\github-actions\\github-actions.csproj": {}
   },
   "projects": {
-    "/Users/arthurtolfopinheiro/Documents/dev/estudo/github-actions/github-actions.csproj": {
+    "C:\\Users\\arthur.pinheiro\\Documents\\dev\\estudo\\github-actions\\github-actions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurtolfopinheiro/Documents/dev/estudo/github-actions/github-actions.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.pinheiro\\Documents\\dev\\estudo\\github-actions\\github-actions.csproj",
         "projectName": "github-actions",
-        "projectPath": "/Users/arthurtolfopinheiro/Documents/dev/estudo/github-actions/github-actions.csproj",
-        "packagesPath": "/Users/arthurtolfopinheiro/.nuget/packages/",
-        "outputPath": "/Users/arthurtolfopinheiro/Documents/dev/estudo/github-actions/obj/",
+        "projectPath": "C:\\Users\\arthur.pinheiro\\Documents\\dev\\estudo\\github-actions\\github-actions.csproj",
+        "packagesPath": "C:\\Users\\arthur.pinheiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthur.pinheiro\\Documents\\dev\\estudo\\github-actions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/arthurtolfopinheiro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\arthur.pinheiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/elsysti/SIGE/_packaging/sige.core/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
